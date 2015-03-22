@@ -8,7 +8,7 @@
 #    of each variable for each activity and each subject.
 ###############################################################################################
 
-setwd("~/R/Get_Clean_Data/UCI HAR Dataset")
+setwd("~/R/GettingandCleaningData/UCI HAR Dataset")
 
 # Step 1. Merge the training and the test sets to create one data set.
 
